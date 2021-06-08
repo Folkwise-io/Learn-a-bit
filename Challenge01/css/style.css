@@ -7,4 +7,33 @@ body{
     background-color: lightblue;
 }
 
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+
+.navbar-brand{
+    min-width: 70%
+}
+
+.navbar-list ul{
+    list-style-type: none;
+    display: flex;
+}
+.navbar-list ul li{
+    margin-top: 15px;
+    /* padding: 10px; */
+    color: white;
+}
+a{
+    text-decoration: none ;
+    color: white;
+}
+.navbar-line{
+    padding: 10px;
+}
+
+
+
 /* 600px, 900px, 1200px, and 1800px */

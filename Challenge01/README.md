@@ -1,5 +1,7 @@
 <img src="./images/learnabit-logo.png" />
 
+[Learn-a-bit Guidebook](https://sites.google.com/mintbean.io/mintbean-learn-a-bit-guide/about-learn-a-bit)
+
 ## Introduction
 
 As the name says, the purpose of Learn-a-bit is about learning one bit of code at a time.
@@ -24,7 +26,7 @@ Learn-a-bit will teach you the fundamentals through a hands-on approach. You wil
 If you get stuck with any part of the challenge or have any questions, ask in the Learn-a-bit channel or the code mentor channels.
 
 To find guidelines for codepen, GitHub, or other useful resources check
-[Getting Started](./design-guideline/learnabit-technology-guide.pdf).
+[Technology Guide](./design-guideline/learnabit-technology-guide.pdf).
 
 ## What Happens After Submission
 We will review your code during the next event and give feedback on some changes to promote best practices and clean code.  

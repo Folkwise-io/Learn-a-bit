@@ -1,53 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mintbean Learn-a-bit Challenge 01</title>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- {% comment %} Google Fonts {% endcomment %} -->
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&family=Viga&display=swap" rel="stylesheet">
     <!-- {% comment %} Own CSS {% endcomment %} -->
     <link rel="stylesheet" href="./css/style.css">
-  </head>
+    <title>Learn-a-bit</title>
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="navbar-brand">
+                <a href="#" class="nav-logo"><img src="./images/learnabit-logo.png"></a>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="" class="nav-link">Intro <span class="navbar-line">|</span></a>
+                </li>
+                <li class="nav-item">
+                    <a href="" class="nav-link">About <span class="navbar-line">|</span></a>
+                </li>
+                <li class="nav-item">
+                    <a href="" class="nav-link">Team <span class="navbar-line">|</span></a>
+                </li>
+                <li class="nav-item">
+                    <a href="" class="nav-link">Contact <span class="navbar-line">|</span></a>    
+                </li>
+                <li class="nav-item">
+                    <button class="navbar-btn nav-link"><a href="">Join</a></button>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </nav>
+    </header>
+    <main class="showcase">
+        <div class="header-card container">
+            <div class="header-title">
+                <h2>Level up bit by bit with Learn-a-bit</h2>
+            </div>
+            <div class="header-body">
+                As the name says, the purpose of
+                Learn-a-bit is about learning one bit
+                of code at a time. In these events,
+                you will build small projects to
+                educate yourself on the fundamentals
+                of web development using HTML, CSS,
+                and JavaScript. These events are
+                relaxed and non-competitive, but are
+                still chalennging enough to push you
+                to use all your resources and
+                knowledge to solve each problem.
+            </div>
+            <button id="header-btn"> Join a learn-a-ton</button>
+        </div>
+    </main>
 
-  <body>
-
-    <div class="header">
-      <div class="navbar">
-        <div class="navbar-brand">
-          <img src="./images/learnabit-logo.png">
-        </div>
-        <div class="navbar-list"> 
-          <ul>
-            <li> <a href="">Intro <span class="navbar-line">|</span></a></li>
-            <li> <a href="">About <span class="navbar-line">|</span> </a></li>
-            <li> <a href="">Team <span class="navbar-line">|</span> </a></li>
-            <li> <a href="">Contact <span class="navbar-line">|</span></a></li>
-            <li> <button class="navbar-btn"><a href="">Join</a></button></li>
-          </ul>
-        </div>
-      </div>
-        <div class="header-card">
-          <div class="header-title">
-            <h2>Level up bit by bit with Learn-a-bit</h2>
-          </div>
-          <div class="header-body">
-            As the name says, the purpose of
-            Learn-a-bit is about learning one bit
-            of code at a time. In these events,
-            you will build small projects to
-            educate yourself on the fundamentals
-            of web development using HTML, CSS,
-            and JavaScript. These events are
-            relaxed and non-competitive, but are
-            still chalennging enough to push you
-            to use all your resources and
-            knowledge to solve each problem.
-          </div>
-          <button id="header-btn"> Join a learn-a-ton</button>
-        </div>
-    </div>
     <script src="./js/main.js"></script>
-  </body>
+</body>
 </html>

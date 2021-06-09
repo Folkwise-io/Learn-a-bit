@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mintbean Learn-a-bit Challenge 01 - Header</title>
+    <title>Mintbean Learn-a-bit Challenge 01</title>
     <!-- {% comment %} Google Fonts {% endcomment %} -->
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&family=Viga&display=swap" rel="stylesheet">
     <!-- {% comment %} Own CSS {% endcomment %} -->
@@ -18,13 +18,32 @@
         <div class="navbar-brand">
           <img src="./images/learnabit-logo.png">
         </div>
-          <input type="checkbox" id="checkbox">
-          <label class="btn" for="checkbox"><i class="fa fa-bar"></i></label>
+
+
+        <div class="menu-wrap">
+          <input type="checkbox" class="toggler">
+          <div class="hamburger"> <div></div></div>
+          <label class="btn" for="checkbox"><i class="fa fa-bars"></i></label>
+          <div class="menu">
+            <div> 
+              <div>
+                <ul>
+                  <li> <a href="">Intro <span class="navbar-line">|</span></a></li>
+                  <li> <a href="">About <span class="navbar-line">|</span> </a></li>
+                  <li> <a href="">Team <span class="navbar-line">|</span> </a></li>
+                  <li> <a href="">Contact <span class="navbar-line">|</span></a></li>
+                  <li> <button class="navbar-btn"><a href="">Join</a></button></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
         <!-- <div class="navbar-menu">
           <label for="toggle"></label>
         </div> -->
 
-        <div class="navbar-list"> <!-- this class would be 'sidebar'-->
+        <!-- this class would be 'sidebar'-->
+        <!-- <div class="navbar-list"> 
           <ul>
             <li> <a href="">Intro <span class="navbar-line">|</span></a></li>
             <li> <a href="">About <span class="navbar-line">|</span> </a></li>
@@ -32,28 +51,27 @@
             <li> <a href="">Contact <span class="navbar-line">|</span></a></li>
             <li> <button class="navbar-btn"><a href="">Join</a></button></li>
           </ul>
-        </div>
+        </div> -->
       </div>
-      <div class="header-card">
-        <div class="header-title">
-          <h2>Level up bit by bit with Learn-a-bit</h2>
+        <div class="header-card">
+          <div class="header-title">
+            <h2>Level up bit by bit with Learn-a-bit</h2>
+          </div>
+          <div class="header-body">
+            As the name says, the purpose of
+            Learn-a-bit is about learning one bit
+            of code at a time. In these events,
+            you will build small projects to
+            educate yourself on the fundamentals
+            of web development using HTML, CSS,
+            and JavaScript. These events are
+            relaxed and non-competitive, but are
+            still chalennging enough to push you
+            to use all your resources and
+            knowledge to solve each problem.
+          </div>
+          <button id="header-btn"> Join a learn-a-ton</button>
         </div>
-        <div class="header-body">
-          As the name says, the purpose of
-          Learn-a-bit is about learning one bit
-          of code at a time. In these events,
-          you will build small projects to
-          educate yourself on the fundamentals
-          of web development using HTML, CSS,
-          and JavaScript. These events are
-          relaxed and non-competitive, but are
-          still chalennging enough to push you
-          to use all your resources and
-          knowledge to solve each problem.
-        </div>
-        
-        <button id="header-btn"> Join a learn-a-ton</button>
-      </div>
     </div>
     <script src="./js/main.js"></script>
   </body>

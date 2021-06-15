@@ -1,4 +1,4 @@
-<img src="./Challenge01/images/learnabit-logo.png" />
+<img src="./Challenges/Challenge01/images/learnabit-logo.png" />
 
 Welcome to Learn-a-bit
 
@@ -20,6 +20,24 @@ Learn-a-bit will teach you the fundamentals through a hands-on approach. You wil
 
 ## Learn-a-bit starter files
 
-Here you will find starter files for every Learna-a-bit challenge.
+    Here you will find starter files for every Learna-a-bit challenge.
 
-[Challenge #1 - Header](./Challenge01)
+- [Challenge #1 - Header](./Challenge01)
+
+- [Challenge #2 - Card](./Challenge02)
+
+---
+
+## Learn-a-bit Feedback
+
+    Here you will find feedback files for every Learn-a-bit challenge.
+
+- [Challenge #1 - Feedback](./Feedback/challenge01-feedback.md)
+
+---
+
+## Learn-a-bit Solutions
+
+    Here you will find solution files for every Learn-a-bit challenge.
+
+- [Challenge #1 - Solution](./Solutions/Challenge01/)

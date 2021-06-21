@@ -26,6 +26,8 @@ Learn-a-bit will teach you the fundamentals through a hands-on approach. You wil
 
 - [Challenge #2 - Card](./Challenge02)
 
+- [Challenge #3 - Team](./Challenge03)
+
 ---
 
 ## Learn-a-bit Feedback

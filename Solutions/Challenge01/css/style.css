@@ -5,6 +5,8 @@
   --highlight-color: #5ef4d6;
   --highlight2-color: #24e5a3;
   --w-color: #f1fff6;
+  --main-font: 'Viga', sans-serif;
+  --second-font: 'Rubik', sans-serif;
 }
 
 *,
@@ -17,8 +19,9 @@
 
 body {
   min-height: 100vh;
-  font-family: 'Rubik', sans-serif;
+  font-family: var(--second-font);
   color: var(--w-color);
+  background-color: var(--main-bg-color);
 }
 
 a,
@@ -47,6 +50,7 @@ img {
   display: flex;
   flex-direction: column;
   flex: 1;
+  justify-content: center;
   width: 90%;
   height: 100%;
   margin: 0 auto;
@@ -97,7 +101,7 @@ img {
   color: var(--second-bg-color);
   text-align: center;
   text-transform: uppercase;
-  font-weight: bold;
+  font-size: 1.2rem;
   background-color: var(--highlight2-color);
 }
 
@@ -118,12 +122,12 @@ img {
   padding: 2rem;
   background-color: var(--second-bg-color-t);
   border: 2px solid var(--highlight-color);
-  border-radius: 0.5rem;
+  border-radius: 0.8rem;
   box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
 .card__title {
-  font-family: 'Viga', sans-serif;
+  font-family: var(--main-font);
   font-size: 1.7rem;
   text-transform: uppercase;
 }

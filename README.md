@@ -22,11 +22,11 @@ Learn-a-bit will teach you the fundamentals through a hands-on approach. You wil
 
     Here you will find starter files for every Learna-a-bit challenge.
 
-- [Challenge #1 - Header](./Challenge01)
+- [Challenge #1 - Header](./Challenges/Challenge01)
 
-- [Challenge #2 - Card](./Challenge02)
+- [Challenge #2 - Card](./Challenges/Challenge02)
 
-- [Challenge #3 - Team](./Challenge03)
+- [Challenge #3 - Team](./Challenges/Challenge03)
 
 ---
 

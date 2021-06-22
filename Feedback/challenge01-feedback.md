@@ -1,10 +1,8 @@
 <img src="../Challenges/Challenge01/images/learnabit-logo.png" />
 
-# Overall Feedback - Learn-a-bit Challenge 01
+# Overall Guideline - Learn-a-bit
 
-Congratulations on your first learn-a-bit challenge! Thank you for participating and giving us your feedback. Everyone did very well and we're excited to see you guys again in the next challenge.
-
-After reviewing your submissions, we have come up with some topics you should focus on. Try to refactor your current code and use them on future challenges.
+We have come up with some topics you should focus on. Try to refactor your current code or use them on future challenges.
 
 # Semantic
 

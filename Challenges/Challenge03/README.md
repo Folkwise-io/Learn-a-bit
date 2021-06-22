@@ -1,4 +1,4 @@
-<img src="../../../Design/logo/learnabit-logo.svg" style="width: 600px" />
+<img src="../Challenge01/images/learnabit-logo.png"/>
 
 ## Introduction
 

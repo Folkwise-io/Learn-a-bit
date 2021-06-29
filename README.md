@@ -28,6 +28,8 @@ Learn-a-bit will teach you the fundamentals through a hands-on approach. You wil
 
 - [Challenge #3 - Team](./Challenges/Challenge03)
 
+- [Challenge #4 - Contact](./Challenges/Challenge04)
+
 ---
 
 ## Learn-a-bit Guideline

@@ -1,15 +1,11 @@
-<img src="../../../Design/logo/learnabit-logo.svg" style="width: 600px" />
+<img src="../Challenge01/images/learnabit-logo.png"/>>
 
 ## Challenge 03 - Team - Starter files
 
 Folder [Design](./design-guideline) - Contains Design and guideline files for the challenge.
-  -  [Guideline file](./design-guideline/learnabit-ch01-guideline.pdf)
-  -  [Design Mobile](./design-guideline/learnabit-ch01-mobile.png)
-  -  [Design Desktop](./design-guideline/learnabit-ch01-desktop.png)
-
-Folder [images](./images) -  Contains image files needed for the challenge.
-  -  [Learn-a-bit logo](./images/learnabit-logo.png)
-  -  [Learn-a-bit Background](./images/mintbean-dome.png)
+  -  [Guideline file](./design-guideline/learnabit-ch03-guideline.pdf)
+  -  [Design Mobile](./design-guideline/learnabit-ch03-mobile.png)
+  -  [Design Desktop](./design-guideline/learnabit-ch03-desktop.png)
 
 File [index.html](./index.html) - Starter basic html file with text for the challenge.
 

@@ -1,0 +1,128 @@
+:root {
+  --main-bg-color: #4143b1;
+  --second-bg-color: #221727;
+  --second-bg-color-t: rgba(34, 23, 39, 0.8);
+  --highlight-color: #5ef4d6;
+  --highlight2-color: #24e5a3;
+  --w-color: #f1fff6;
+  --main-font: 'Viga', sans-serif;
+  --second-font: 'Rubik', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  font-family: var(--second-font);
+  color: var(--w-color);
+  background-color: var(--main-bg-color);
+}
+
+a,
+ul,
+li {
+  color: currentColor;
+  text-decoration: none;
+  list-style: none;
+}
+
+img {
+  display: block;
+  height: 100%;
+}
+
+.team {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  min-height: 100vh;
+  padding-top: 2rem;
+}
+
+.team__title {
+  color: var(--highlight-color);
+  font-family: var(--main-font);
+  font-size: 3rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  text-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.container {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 2rem;
+  width: 90%;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  width: 300px;
+  margin-top: 100px;
+  padding: 125px 1rem 1rem;
+  background-color: var(--second-bg-color);
+  border: 2px solid var(--highlight-color);
+  border-radius: 8px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.card__image {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: -100px;
+  border: 2px solid var(--highlight-color);
+  border-radius: 50%;
+}
+
+.card__header {
+  text-align: center;
+}
+
+.card__name {
+  color: var(--highlight-color);
+  font-family: var(--main-font);
+  font-size: 1.7rem;
+  font-weight: 400;
+}
+
+.card__position {
+  color: var(--highlight2-color);
+  font-size: 0.7rem;
+  font-weight: 200;
+}
+
+.card__text {
+  text-align: center;
+  opacity: 0.8;
+}
+
+.card__icons {
+  display: flex;
+  gap: 1rem;
+}
+
+.card__icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border: 2px solid var(--highlight-color);
+  border-radius: 50%;
+}

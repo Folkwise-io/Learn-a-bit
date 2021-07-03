@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      Mintbean Learn-a-bit Challenge 04 - Contact by Emsad Ahmetašević
+    </title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&family=Viga&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+
+  <body>
+    <section class="contact">
+      <h2 class="contact__title">Contact Us</h2>
+      <div class="container">
+        <article class="contact__card">
+          <section class="contact__info">
+            <img class="contact__logo" src="./images/learnabit-logo.svg" />
+            <p class="contact__text">
+              Have a question about a Learn-a-bit or workshop? Want to speak at
+              one of our events or discuss a potential collaboration? Contact
+              us, we'd love to start a conversation.
+            </p>
+            <ul class="contact__icons">
+              <li class="contact__icon">
+                <a href="#">
+                  <img src="./images/icons/globe-icon.svg" alt="Globe Icon" />
+                </a>
+              </li>
+              <li class="contact__icon">
+                <a href="#">
+                  <img src="./images/icons/github-icon.svg" alt="Github Icon" />
+                </a>
+              </li>
+              <li class="contact__icon">
+                <a href="#">
+                  <img
+                    src="./images/icons/linkedin-icon.svg"
+                    alt="LinkedIn Icon"
+                  />
+                </a>
+              </li>
+              <li class="contact__icon">
+                <a href="#">
+                  <img src="./images/icons/mail-icon.svg" alt="Mail Icon" />
+                </a>
+              </li>
+            </ul>
+          </section>
+
+          <form class="contact__form" action="#">
+            <input
+              class="contact__input"
+              type="text"
+              id="contactName"
+              name="contactName"
+              placeholder="Full name"
+            />
+
+            <input
+              class="contact__input"
+              type="email"
+              id="contactEmail"
+              name="contactEmail"
+              placeholder="Email"
+            />
+
+            <textarea
+              class="contact__input contact__input--textarea"
+              id="contactMessage"
+              name="contactMessage"
+              placeholder="Message"
+            ></textarea>
+
+            <input class="contact__button" type="submit" value="Send" />
+          </form>
+        </article>
+      </div>
+    </section>
+  </body>
+</html>

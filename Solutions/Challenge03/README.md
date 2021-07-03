@@ -1,4 +1,4 @@
-<img src="../Challenge01/images/learnabit-logo.png" />
+<img src="../Challenge01/images/learnabit-logo.svg" />
 
 ## Learn-a-bit Challenge 03 Solution
 

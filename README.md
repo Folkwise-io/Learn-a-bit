@@ -1,4 +1,4 @@
-<img src="./Challenges/Challenge01/images/learnabit-logo.png" />
+<img src="./Challenges/Challenge01/images/learnabit-logo.svg" />
 
 Welcome to Learn-a-bit
 

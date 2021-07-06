@@ -1,15 +1,17 @@
-<img src="../Challenge01/images/learnabit-logo.png"/>>
+<img src="../Challenge01/images/learnabit-logo.svg"/>>
 
 ## Challenge 03 - Team - Starter files
 
 Folder [Design](./design-guideline) - Contains Design and guideline files for the challenge.
-  -  [Guideline file](./design-guideline/learnabit-ch03-guideline.pdf)
-  -  [Design Mobile](./design-guideline/learnabit-ch03-mobile.png)
-  -  [Design Desktop](./design-guideline/learnabit-ch03-desktop.png)
+
+- [Guideline file](./design-guideline/learnabit-ch03-guideline.pdf)
+- [Design Mobile](./design-guideline/learnabit-ch03-mobile.png)
+- [Design Desktop](./design-guideline/learnabit-ch03-desktop.png)
 
 File [index.html](./index.html) - Starter basic html file with text for the challenge.
 
 ---
+
 ### Colors:
 
 ![#F1FFF6](https://via.placeholder.com/32/F1FFF6/000000?text=+) `#F1FFF6`
@@ -24,14 +26,17 @@ File [index.html](./index.html) - Starter basic html file with text for the chal
 
 ---
 
-### Fonts: 
+### Fonts:
+
 - [Viga](https://fonts.google.com/specimen/Viga?query=viga)
 - [Rubik](https://fonts.google.com/specimen/Rubik?query=rubik)
 
 ---
 
 ## Design mobile
+
 ![design mobile](./design-guideline/learnabit-ch03-mobile.png)
 
 ## Design desktop
+
 ![design desktop](./design-guideline/learnabit-ch03-desktop.png)

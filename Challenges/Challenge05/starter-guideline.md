@@ -1,16 +1,12 @@
-<img src="../Challenge01/images/learnabit-logo.svg"/>
+<img src="../Challenge01/images/learnabit-logo.svg"/>>
 
-## Challenge 04 - Contact - Starter files
+## Challenge 05 - Footer - Starter files
 
 Folder [Design](./design-guideline) - Contains Design and guideline files for the challenge.
 
-- [Guideline file](./design-guideline/learnabit-ch04-guideline.pdf)
-- [Design Mobile](./design-guideline/learnabit-ch04-mobile.png)
-- [Design Desktop](./design-guideline/learnabit-ch04-desktop.png)
-
-Folder [images](./images) - Contains image files needed for the challenge.
-
-- [Learn-a-bit logo](./images/learnabit-logo.png)
+- [Guideline file](./design-guideline/learnabit-ch05-guideline.pdf)
+- [Design Mobile](./design-guideline/learnabit-ch05-mobile.png)
+- [Design Desktop](./design-guideline/learnabit-ch05-desktop.png)
 
 File [index.html](./index.html) - Starter basic html file with text for the challenge.
 
@@ -39,8 +35,8 @@ File [index.html](./index.html) - Starter basic html file with text for the chal
 
 ## Design mobile
 
-![design mobile](./design-guideline/learnabit-ch04-mobile.png)
+![design mobile](./design-guideline/learnabit-ch05-mobile.png)
 
 ## Design desktop
 
-![design desktop](./design-guideline/learnabit-ch04-desktop.png)
+![design desktop](./design-guideline/learnabit-ch05-desktop.png)

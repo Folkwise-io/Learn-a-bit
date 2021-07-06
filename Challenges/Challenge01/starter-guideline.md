@@ -1,19 +1,22 @@
-<img src="./images/learnabit-logo.png" />
+<img src="./images/learnabit-logo.svg" />
 
 ## Challenge 01 - Header - Starter files
 
 Folder [Design](./design-guideline) - Contains Design and guideline files for the challenge.
-  -  [Guideline file](./design-guideline/learnabit-ch01-guideline.pdf)
-  -  [Design Mobile](./design-guideline/learnabit-ch01-mobile.png)
-  -  [Design Desktop](./design-guideline/learnabit-ch01-desktop.png)
 
-Folder [images](./images) -  Contains image files needed for the challenge.
-  -  [Learn-a-bit logo](./images/learnabit-logo.png)
-  -  [Learn-a-bit Background](./images/mintbean-dome.png)
+- [Guideline file](./design-guideline/learnabit-ch01-guideline.pdf)
+- [Design Mobile](./design-guideline/learnabit-ch01-mobile.png)
+- [Design Desktop](./design-guideline/learnabit-ch01-desktop.png)
+
+Folder [images](./images) - Contains image files needed for the challenge.
+
+- [Learn-a-bit logo](./images/learnabit-logo.png)
+- [Learn-a-bit Background](./images/mintbean-dome.png)
 
 File [index.html](./index.html) - Starter basic html file with text for the challenge.
 
 ---
+
 ### Colors:
 
 ![#F1FFF6](https://via.placeholder.com/32/F1FFF6/000000?text=+) `#F1FFF6`
@@ -28,14 +31,17 @@ File [index.html](./index.html) - Starter basic html file with text for the chal
 
 ---
 
-### Fonts: 
+### Fonts:
+
 - [Viga](https://fonts.google.com/specimen/Viga?query=viga)
 - [Rubik](https://fonts.google.com/specimen/Rubik?query=rubik)
 
 ---
 
 ## Design mobile
+
 ![design mobile](./design-guideline/learnabit-ch01-mobile.png)
 
 ## Design desktop
+
 ![design desktop](./design-guideline/learnabit-ch01-desktop.png)

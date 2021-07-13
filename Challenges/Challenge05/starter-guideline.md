@@ -8,6 +8,10 @@ Folder [Design](./design-guideline) - Contains Design and guideline files for th
 - [Design Mobile](./design-guideline/learnabit-ch05-mobile.png)
 - [Design Desktop](./design-guideline/learnabit-ch05-desktop.png)
 
+Folder [images](./images) - Contains image files needed for the challenge.
+
+- [Learn-a-bit logo](./images/learnabit-logo.svg)
+
 File [index.html](./index.html) - Starter basic html file with text for the challenge.
 
 ---

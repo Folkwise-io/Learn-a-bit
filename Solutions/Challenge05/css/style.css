@@ -1,0 +1,136 @@
+:root {
+  --main-bg-color: #4143b1;
+  --second-bg-color: #221727;
+  --second-bg-color-t: rgba(34, 23, 39, 0.8);
+  --highlight-color: #5ef4d6;
+  --highlight2-color: #24e5a3;
+  --w-color: #f1fff6;
+  --main-font: 'Viga', sans-serif;
+  --second-font: 'Rubik', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: var(--second-font);
+  color: var(--w-color);
+  background-color: var(--main-bg-color);
+  justify-content: flex-end;
+}
+
+a,
+ul,
+li {
+  color: currentColor;
+  text-decoration: none;
+  list-style: none;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem 0;
+  background-color: var(--second-bg-color);
+}
+
+.container {
+  width: 90%;
+}
+
+.footer .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.social__icons,
+.navbar__links {
+  display: grid;
+  grid-auto-rows: 1fr;
+  align-items: center;
+  gap: 1rem;
+  height: 100%;
+  color: var(--highlight-color);
+  font-size: 1.2rem;
+}
+
+.social__link,
+.navbar__link {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.social__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border: 2px solid currentColor;
+  border-radius: 50%;
+  padding: 0.5rem;
+}
+
+.navbar__link {
+  justify-content: flex-end;
+}
+
+.navbar__link::after {
+  content: '#';
+  font-size: 2rem;
+  color: currentColor;
+}
+
+.footer__brand {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  min-width: 100%;
+}
+
+.footer__powered {
+  display: flex;
+  align-items: flex-end;
+  gap: 1rem;
+}
+
+.poweredby {
+  white-space: nowrap;
+}
+
+@media screen and (min-width: 700px) {
+  .footer__icons {
+    order: 1;
+  }
+
+  .footer__brand {
+    order: 2;
+    align-self: center;
+    min-width: 35%;
+  }
+
+  .footer__links {
+    order: 3;
+  }
+}

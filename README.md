@@ -1,4 +1,4 @@
-<img src="./Challenges/Challenge01/images/learnabit-logo.svg" />
+<img src="./Projects/ChallengeSet01/Challenge01/images/learnabit-logo.svg" />
 
 Welcome to Learn-a-bit
 
@@ -22,12 +22,8 @@ Learn-a-bit will teach you the fundamentals through a hands-on approach. You wil
 
     Here you will find starter files for every Learna-a-bit challenge.
 
-- [Challenge #1 - Header](./Challenges/Challenge01)
-- [Challenge #2 - Card](./Challenges/Challenge02)
-- [Challenge #3 - Team](./Challenges/Challenge03)
-- [Challenge #4 - Contact](./Challenges/Challenge04)
-- [Challenge #5 - Footer](./Challenges/Challenge05)
-- [Challenge #6 - Landing Page](./Challenges/Challenge06)
+- [Challenge #1 - Header](./Projects/ChallengeSet02/Challenge01)
+- [Challenge #2 - Galelry](./Projects/ChallengeSet02/Challenge02)
 
 ---
 
@@ -36,19 +32,6 @@ Learn-a-bit will teach you the fundamentals through a hands-on approach. You wil
     Here you will find guideline files for Learn-a-bit challenges.
 
 - [Overall guideline](./Guideline/overall-guideline.md)
-
----
-
-## Learn-a-bit Solutions
-
-    Here you will find solution files for every Learn-a-bit challenge.
-
-- [Challenge #1 - Solution](./Solutions/Challenge01/)
-- [Challenge #2 - Solution](./Solutions/Challenge02/)
-- [Challenge #3 - Solution](./Solutions/Challenge03/)
-- [Challenge #4 - Solution](./Solutions/Challenge04/)
-- [Challenge #5 - Solution](./Solutions/Challenge05/)
-- [Challenge #6 - Solution](./Solutions/Challenge06/)
 
 ---
 

@@ -23,7 +23,7 @@ Learn-a-bit will teach you the fundamentals through a hands-on approach. You wil
     Here you will find starter files for every Learna-a-bit challenge.
 
 - [Challenge #1 - Header](./Projects/ChallengeSet02/Challenge01)
-- [Challenge #2 - Galelry](./Projects/ChallengeSet02/Challenge02)
+- [Challenge #2 - Gallery](./Projects/ChallengeSet02/Challenge02)
 
 ---
 

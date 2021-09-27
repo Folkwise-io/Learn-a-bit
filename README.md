@@ -26,6 +26,7 @@ Learn-a-bit will teach you the fundamentals through a hands-on approach. You wil
 - [Challenge #2 - Gallery](./Projects/ChallengeSet02/Challenge02)
 - [Challenge #3 - Pricing](./Projects/ChallengeSet02/Challenge03)
 - [Challenge #4 - Review](./Projects/ChallengeSet02/Challenge04)
+- [Challenge #5 - Contact](./Projects/ChallengeSet02/Challenge05)
 
 ---
 
